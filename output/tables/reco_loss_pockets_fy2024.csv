@@ -1,0 +1,14 @@
+region,category,sub_category,sales,profit
+West,Furniture,Tables,87937.51,-6521.13
+East,Furniture,Tables,95131.89,-5729.34
+South,Furniture,Tables,48836.4,-5579.44
+Central,Furniture,Tables,52803.8,-3953.07
+Central,Technology,Machines,134228.11,-3365.65
+West,Furniture,Bookcases,60057.31,-2648.51
+East,Furniture,Bookcases,48376.51,-1470.18
+Central,Furniture,Bookcases,33181.21,-1229.32
+South,Technology,Machines,115942.02,-865.3100000000002
+East,Technology,Machines,152122.81,-855.5600000000001
+Central,Furniture,Chairs,16946.19,-638.13
+South,Furniture,Bookcases,25793.96,-541.49
+South,Furniture,Chairs,24326.88,-241.25

@@ -1,0 +1,5 @@
+test,estimate,p_value
+Spearman: discount vs margin,-0.6319174303699074,0
+"Welch t-test: margin, discount<=30% vs >30%",0.33203739626170814,0
+Kruskal-Wallis: margin by region,73.7279605786556,6.787471768625037e-16
+Kruskal-Wallis: margin by category,2202.7797780774904,0

@@ -1,0 +1,5 @@
+step,n
+raw rows,12504
+after de-duplication,12320
+clean rows kept,12236
+discount imputed to 0 (flagged),123
